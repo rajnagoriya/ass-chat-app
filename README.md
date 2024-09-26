@@ -8,8 +8,6 @@ This is a simple chat application built using Next.js, Prisma, and MySQL. It fea
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Environment Variables](#environment-variables)
-- [Running the Application](#running-the-application)
-- [Scripts](#scripts)
 
 ## Features
 
